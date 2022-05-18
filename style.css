@@ -17,6 +17,9 @@ header img {
     width: 250px;
     border-radius: 5px;
 }
+header p {
+    max-width: 50ch;
+}
 main .separator_1 {
     background-image: linear-gradient(rgba(136, 37, 24, 0.3), rgba(136, 37, 24, 0.3)) ,url('https://cdn.wallpapersafari.com/41/3/I8OoHU.jpg');
     background-size: cover;
